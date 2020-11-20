@@ -2,6 +2,6 @@ CoronaWars is a modern take on the classic arcade game Asteroids. You control a 
 
 To Play:
 
-1)Go to Release/CoronaWrs.Zip and download
+1)Go to Release/CoronaWars.Zip and download
 2)Extract all
 3)Double Click on the exe
